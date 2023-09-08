@@ -16,9 +16,9 @@
 
 <br>
 
-- Pengembang Android otodidak yang bersemangat
+- Passionate self-taught Android developer
 - Playing Laravel at spare time
-- Saat ini sedang mempelajari Pengembangan Android secara Mandiri
+- Currently studying Android Development Independently
 - Personal website [link]()
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
@@ -34,7 +34,7 @@
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C++](https://img.shields.io/badge/Xml%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
