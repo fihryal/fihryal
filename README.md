@@ -76,8 +76,7 @@
 <div align="center">
 
 <a href="https://github.com/fihryal/">
-  <img src="https://github-readme-stats.vercel.app/api?username=fihryal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0D1117
-"  alt="fihryal"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fihryal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0D1117" width="375" alt="fihryal"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fihryal&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="fihryal"/>
 
 </a>
